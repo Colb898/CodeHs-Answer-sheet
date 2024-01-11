@@ -1,0 +1,17 @@
+def move_twice():
+    move()
+    move()
+def put_ball3():
+    put_ball()
+    put_ball()
+    put_ball()
+def make_pankakes():
+    put_ball3()
+
+move()
+make_pankakes()
+move_twice()
+make_pankakes()
+move_twice()
+make_pankakes()
+move()
